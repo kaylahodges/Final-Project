@@ -1,11 +1,16 @@
 # Final-Project
-How often is love the topic of songs, and how does love impact other variables. This study was completed using albums from the music group TWICE. Their albums TWICEGRAM, Eyes Wide Open and Formula of Love: O + T = <3 was used. 
+How often is love the topic of songs, and how does love impact other variables. This study was completed using albums from the music group TWICE. Their albums TWICEGRAM, Eyes Wide Open and Formula of Love: O + T = <3 was used. The unit of analysis is an individual song and there are 41 observations. 
 Variable 1: Love Type (Qualitative)
-	To operationalize the concept of Love Type, a qualitative scale ranging from 0 to 4 was used. Each number on the scale corresponds to a specific type of love depicted in the song. A rating of 0 indicates the absence of love as a theme, 1 signifies romantic love, 2 represents platonic love, 3 conveys self-love, and 4 denotes familial love. This scale captures the diverse manifestations of love in songs. This ensures that each song aligns with one or more categories, comprehensively analyzing the prevalence of different love types in the music. 
+ Measured on a qualitative scale ranging from 0 to 4, representing different types of love (0 = Doesn’t Apply, 1 = Romantic Love, 2 = Platonic Love, 3 = Self-Love, 4 = Familial Love).
+Categorized each song into one of these love types based on lyrical content and themes.
 Variable 2: Emotional Tone (Qualitative)
-	Emotional Tone is operationalized by using four categories: happy, sad, melancholic, and empowering. A rating system ranging from 1 to 4 is used, 1 indicating a happy emotional tone, 2 for sad, 3 for melancholic, and 4 for empowering. This operationalization focuses on the emotional aspects of the songs, recognizing the significance of mood in the portrayal of love. The analysis aims to uncover patterns and trends related to the emotional expression of love in music. 
+Measured by assessing emotional tone in four categories (1 = Happy, 2 = Sad, 3 = Melancholic, 4 = Empowering).
+ Assigned emotional tones to songs based on the overall mood conveyed in the lyrics.
 Variable 3: Song Length (Quantitative)
-	The operationalization of song length is quantified by recording the exact duration of each song in minutes and seconds. This variable is a continuous numerical value, representing the song's length. The choice to quantify song length is justified by understanding that duration can influence how a song’s message about love is conveyed. Longer songs may allow for more intricate storytelling, potentially impacting the depth and complexity of the thematic content.
+Measured in minutes and seconds as a continuous numerical value.
+ Recorded the duration of each song precisely in minutes and seconds.
 Variable 4: Tempo (Quantitative)
-	Tempo is operationalized through measuring the amount of beats per minute (BPM). The variable is measured as a continuous numerical value, reflecting the speed of each song. This operationalization is chosen to examine how tempo influences the emotions conveyed in a song, as well as its potential interaction with the lyrical portrayal of love. The choice of BPM allows for a precise evaluation of the tempo’s impact on the thematic content of love in the songs. 
-This project requires access to TWICE's albums: TWICETAGRAM, Eyes Wide Open, and Formula of Love: O + T = <3 
+ Measured in beats per minute (BPM) as a continuous numerical variable.
+Determined the tempo for each song by calculating the beats per minute.
+Data Cleaning Process: All songs were used in this study and there are 41 songs. The unique identifier is a song's title. All songs are used only once. Quality checks were performed to ensure there are no outliers in the data. 
+Instructions: Download the script, it is important to have access to TWICE's albums TWICEGRAM, Eyes Wide Open and Formula of Love in order to be able to replicate the script. 
